@@ -1,3 +1,3 @@
 ### Hi, I'm Kushal 👋
 
-WoW! You found me!
+You found me!
