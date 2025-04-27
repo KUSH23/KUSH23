@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kush!
+# Hi there 👋, I'm Kushal!
 
 Here's a little more about me:
 
@@ -14,6 +14,9 @@ Here's a little more about me:
 ---
 
 ## 📊 GitHub Stats
+
+MBA kr raha hu to iska to bbhi to bahut bura haal hai🤐
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUSH23&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUSH23&layout=compact&theme=radical)
@@ -34,7 +37,7 @@ Sab try kr rakha h. But favourites to abhi yahi h
 ---
 
 ## 🌐 Fun Fact
-- I excel at balancing laziness and productivity, fueled by late-night coding sessions!
+- I excel at balancing laziness and productivity! Jab kaam krta hu to complete hi kr deta hu 🫣 
 
 ---
 
