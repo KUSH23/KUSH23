@@ -5,8 +5,6 @@ Here's a little more about me:
 ---
 
 ## 🌟 About Me
-- 🛌 **I love sleeping** and proudly embrace my **lazy side**.
-- 🌙 Despite that, I work on projects till late at night.
 - 🌱 I’m currently pursuing an **MBA from IIM Ahmedabad**, which has reduced my active coding time, but I keep learning and staying updated on emerging tech trends in **AI**, **Web Development**, and **Cloud Computing**.
 - 💬 Ask me about anything related to **development**, **open source**, or **technology trends**.
 - 📫 Reach me via [Email](mailto:kushalsai2007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kushal-keep-it-simple/).
