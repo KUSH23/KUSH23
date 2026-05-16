@@ -16,11 +16,9 @@ Here's a little more about me:
 
 ## 📊 GitHub Stats
 
-MBA kr raha hu to iska to bbhi to bahut bura haal hai🤐
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUSH23&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUSH23&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUSH23&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUSH23&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KUSH23&theme=radical&hide_border=true)
 
 
 ---
