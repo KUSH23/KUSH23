@@ -5,9 +5,12 @@ Here's a little more about me:
 ---
 
 ## 🌟 About Me
-- 🌱 I’m currently pursuing an **MBA from IIM Ahmedabad**, which has reduced my active coding time, but I keep learning and staying updated on emerging tech trends in **AI**, **Web Development**, and **Cloud Computing**.
-- 💬 Ask me about anything related to **development**, **open source**, or **technology trends**.
-- 📫 Reach me via [Email](mailto:kushalsai2007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kushal-keep-it-simple/).
+- 🤖 Currently working at **Autosys Industrial Solutions** — acting as the bridge between enterprise clients and engineering teams, driving platform adoption, requirement gathering, and cross-functional execution in industrial tech.
+- 🌱 Volunteering as **AI Product Lead at GIAN (Gujarat Grassroots Innovation Augmentation Network)** — building agentic tools and RAG-based systems on the side.
+- 🎓 **MBA, IIM Ahmedabad** (Class of 2026) | **B.Tech, IIT Kharagpur** (Electronics & Electrical Communication).
+- 🔭 Lately obsessed with **agentic AI**, **LLM evaluation**, and how frontier AI systems get trained — which is what pulled me toward data labeling infrastructure and AI production pipelines.
+- 💬 Talk to me about **AI product building**, **0→1 execution**, or anything where ops meets engineering.
+- 📫 Reach me via [Email](mailto:kushalsai2007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kushalsaini-in/).
 
 ---
 
